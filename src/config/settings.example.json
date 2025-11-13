@@ -1,0 +1,10 @@
+{
+  "search_engine": "duckduckgo",
+  "max_results": 5,
+  "country_code": "us",
+  "exact_match": true,
+  "user_agent": "LinkedInProfileFinderBot/1.0 (+https://bitbash.dev)",
+  "request_timeout": 10,
+  "input_file": "data/inputs.sample.txt",
+  "output_file": "data/sample_output.json"
+}
